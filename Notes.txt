@@ -1,0 +1,16 @@
+jenkins Server should be capable of
+
+ - creating ECR Repo
+
+ - building Docker image
+
+ - pushing Docker image to ECR Repo
+
+ - creating infrastructure for the app
+
+ - deploying the application
+
+
+ Resources
+
+ - https://www.jenkins.io/doc/book/pipeline/getting-started/
